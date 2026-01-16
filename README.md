@@ -111,7 +111,7 @@ Watch a full demonstration of the system, including:
 
 
 
-Uploading Liver Detection video - Made with Clipchamp_1751733619818.mp4…
+https://github.com/user-attachments/assets/561081f2-503a-4fe3-9235-bab14756c971
 
 
 https://github.com/user-attachments/assets/9fd57911-f798-4a86-b84f-ae5672e7baab
