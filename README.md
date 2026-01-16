@@ -154,8 +154,3 @@ https://github.com/user-attachments/assets/9fd57911-f798-4a86-b84f-ae5672e7baab
 ---
 
 
-# Install dependencies
-pip install -r requirements.txt
-
-# Run backend
-python app.py
