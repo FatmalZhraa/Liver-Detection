@@ -101,6 +101,21 @@ The system consists of the following main components:
 - Robust generalization after augmentation and balancing
 
 ---
+## 🎥 Demo Video
+
+Watch a full demonstration of the system, including:
+- Liver fibrosis classification (F0–F4)
+- Liver & tumor segmentation
+- Web & mobile application workflow
+
+
+
+
+Uploading Liver Detection video - Made with Clipchamp_1751733619818.mp4…
+
+
+https://github.com/user-attachments/assets/9fd57911-f798-4a86-b84f-ae5672e7baab
+
 
 ## 🛠️ Technologies Used
 
@@ -138,11 +153,6 @@ The system consists of the following main components:
 
 ---
 
-## 🚀 How to Run (Example)
-
-```bash
-# Clone repository
-git clone https://github.com/your-username/liver-cirrhosis-detection.git
 
 # Install dependencies
 pip install -r requirements.txt
